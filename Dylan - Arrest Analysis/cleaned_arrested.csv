@@ -1,0 +1,790 @@
+,INCIDENTNEIGHBORHOOD,YEAR,ARREST_COUNT
+0,Allegheny Center,2016,82
+1,Allegheny Center,2017,216
+2,Allegheny Center,2018,161
+3,Allegheny Center,2019,239
+4,Allegheny Center,2020,155
+5,Allegheny Center,2021,144
+6,Allegheny Center,2022,165
+7,Allegheny Center,2023,82
+8,Allegheny West,2016,7
+9,Allegheny West,2017,34
+10,Allegheny West,2018,20
+11,Allegheny West,2019,17
+12,Allegheny West,2020,10
+13,Allegheny West,2021,17
+14,Allegheny West,2022,14
+15,Allegheny West,2023,11
+16,Allentown,2016,64
+17,Allentown,2017,194
+18,Allentown,2018,167
+19,Allentown,2019,147
+20,Allentown,2020,101
+21,Allentown,2021,112
+22,Allentown,2022,92
+23,Allentown,2023,70
+24,Arlington,2016,20
+25,Arlington,2017,50
+26,Arlington,2018,60
+27,Arlington,2019,43
+28,Arlington,2020,31
+29,Arlington,2021,36
+30,Arlington,2022,33
+31,Arlington,2023,39
+32,Arlington Heights,2016,13
+33,Arlington Heights,2017,21
+34,Arlington Heights,2018,15
+35,Arlington Heights,2019,55
+36,Arlington Heights,2020,7
+37,Arlington Heights,2021,8
+38,Arlington Heights,2022,16
+39,Arlington Heights,2023,20
+40,Banksville,2016,24
+41,Banksville,2017,44
+42,Banksville,2018,39
+43,Banksville,2019,38
+44,Banksville,2020,53
+45,Banksville,2021,38
+46,Banksville,2022,25
+47,Banksville,2023,30
+48,Bedford Dwellings,2016,32
+49,Bedford Dwellings,2017,118
+50,Bedford Dwellings,2018,93
+51,Bedford Dwellings,2019,117
+52,Bedford Dwellings,2020,89
+53,Bedford Dwellings,2021,67
+54,Bedford Dwellings,2022,82
+55,Bedford Dwellings,2023,67
+56,Beechview,2013,1
+57,Beechview,2014,7
+58,Beechview,2015,2
+59,Beechview,2016,67
+60,Beechview,2017,252
+61,Beechview,2018,220
+62,Beechview,2019,189
+63,Beechview,2020,147
+64,Beechview,2021,134
+65,Beechview,2022,85
+66,Beechview,2023,97
+67,Beltzhoover,2016,28
+68,Beltzhoover,2017,123
+69,Beltzhoover,2018,94
+70,Beltzhoover,2019,78
+71,Beltzhoover,2020,48
+72,Beltzhoover,2021,52
+73,Beltzhoover,2022,53
+74,Beltzhoover,2023,20
+75,Bloomfield,2014,1
+76,Bloomfield,2016,74
+77,Bloomfield,2017,177
+78,Bloomfield,2018,174
+79,Bloomfield,2019,158
+80,Bloomfield,2020,109
+81,Bloomfield,2021,130
+82,Bloomfield,2022,89
+83,Bloomfield,2023,72
+84,Bluff,2010,1
+85,Bluff,2016,65
+86,Bluff,2017,320
+87,Bluff,2018,235
+88,Bluff,2019,210
+89,Bluff,2020,200
+90,Bluff,2021,168
+91,Bluff,2022,148
+92,Bluff,2023,155
+93,Bon Air,2016,14
+94,Bon Air,2017,45
+95,Bon Air,2018,35
+96,Bon Air,2019,39
+97,Bon Air,2020,38
+98,Bon Air,2021,40
+99,Bon Air,2022,33
+100,Bon Air,2023,23
+101,Brighton Heights,2016,72
+102,Brighton Heights,2017,235
+103,Brighton Heights,2018,159
+104,Brighton Heights,2019,176
+105,Brighton Heights,2020,143
+106,Brighton Heights,2021,117
+107,Brighton Heights,2022,109
+108,Brighton Heights,2023,103
+109,Brookline,2016,99
+110,Brookline,2017,225
+111,Brookline,2018,193
+112,Brookline,2019,216
+113,Brookline,2020,160
+114,Brookline,2021,184
+115,Brookline,2022,167
+116,Brookline,2023,146
+117,California-Kirkbride,2014,1
+118,California-Kirkbride,2015,1
+119,California-Kirkbride,2016,16
+120,California-Kirkbride,2017,53
+121,California-Kirkbride,2018,41
+122,California-Kirkbride,2019,53
+123,California-Kirkbride,2020,41
+124,California-Kirkbride,2021,27
+125,California-Kirkbride,2022,38
+126,California-Kirkbride,2023,44
+127,Carrick,2012,1
+128,Carrick,2014,1
+129,Carrick,2015,1
+130,Carrick,2016,134
+131,Carrick,2017,439
+132,Carrick,2018,377
+133,Carrick,2019,456
+134,Carrick,2020,245
+135,Carrick,2021,259
+136,Carrick,2022,250
+137,Carrick,2023,189
+138,Central Business District,1998,1
+139,Central Business District,2014,1
+140,Central Business District,2016,176
+141,Central Business District,2017,748
+142,Central Business District,2018,613
+143,Central Business District,2019,717
+144,Central Business District,2020,543
+145,Central Business District,2021,468
+146,Central Business District,2022,424
+147,Central Business District,2023,749
+148,Central Lawrenceville,2016,27
+149,Central Lawrenceville,2017,96
+150,Central Lawrenceville,2018,83
+151,Central Lawrenceville,2019,79
+152,Central Lawrenceville,2020,44
+153,Central Lawrenceville,2021,40
+154,Central Lawrenceville,2022,37
+155,Central Lawrenceville,2023,25
+156,Central North Side,2010,2
+157,Central North Side,2015,1
+158,Central North Side,2016,60
+159,Central North Side,2017,146
+160,Central North Side,2018,158
+161,Central North Side,2019,162
+162,Central North Side,2020,113
+163,Central North Side,2021,64
+164,Central North Side,2022,66
+165,Central North Side,2023,81
+166,Central Northside,2016,23
+167,Central Oakland,2015,2
+168,Central Oakland,2016,51
+169,Central Oakland,2017,91
+170,Central Oakland,2018,82
+171,Central Oakland,2019,95
+172,Central Oakland,2020,54
+173,Central Oakland,2021,45
+174,Central Oakland,2022,59
+175,Central Oakland,2023,42
+176,Chartiers City,2016,1
+177,Chartiers City,2017,7
+178,Chartiers City,2018,10
+179,Chartiers City,2019,5
+180,Chartiers City,2020,5
+181,Chartiers City,2021,2
+182,Chartiers City,2022,10
+183,Chartiers City,2023,6
+184,Chateau,2016,37
+185,Chateau,2017,75
+186,Chateau,2018,86
+187,Chateau,2019,81
+188,Chateau,2020,37
+189,Chateau,2021,38
+190,Chateau,2022,51
+191,Chateau,2023,49
+192,Crafton Heights,2016,40
+193,Crafton Heights,2017,112
+194,Crafton Heights,2018,74
+195,Crafton Heights,2019,84
+196,Crafton Heights,2020,68
+197,Crafton Heights,2021,90
+198,Crafton Heights,2022,67
+199,Crafton Heights,2023,66
+200,Crawford-Roberts,2009,1
+201,Crawford-Roberts,2016,70
+202,Crawford-Roberts,2017,166
+203,Crawford-Roberts,2018,124
+204,Crawford-Roberts,2019,133
+205,Crawford-Roberts,2020,96
+206,Crawford-Roberts,2021,87
+207,Crawford-Roberts,2022,81
+208,Crawford-Roberts,2023,81
+209,Duquesne Heights,2016,8
+210,Duquesne Heights,2017,30
+211,Duquesne Heights,2018,36
+212,Duquesne Heights,2019,33
+213,Duquesne Heights,2020,27
+214,Duquesne Heights,2021,28
+215,Duquesne Heights,2022,18
+216,Duquesne Heights,2023,11
+217,East Allegheny,2016,170
+218,East Allegheny,2017,463
+219,East Allegheny,2018,318
+220,East Allegheny,2019,348
+221,East Allegheny,2020,239
+222,East Allegheny,2021,205
+223,East Allegheny,2022,218
+224,East Allegheny,2023,256
+225,East Carnegie,2016,7
+226,East Carnegie,2017,7
+227,East Carnegie,2018,8
+228,East Carnegie,2019,8
+229,East Carnegie,2020,7
+230,East Carnegie,2021,6
+231,East Carnegie,2022,5
+232,East Hills,2016,67
+233,East Hills,2017,179
+234,East Hills,2018,196
+235,East Hills,2019,162
+236,East Hills,2020,172
+237,East Hills,2021,154
+238,East Hills,2022,120
+239,East Hills,2023,144
+240,East Liberty,2011,1
+241,East Liberty,2012,1
+242,East Liberty,2016,124
+243,East Liberty,2017,295
+244,East Liberty,2018,312
+245,East Liberty,2019,316
+246,East Liberty,2020,205
+247,East Liberty,2021,230
+248,East Liberty,2022,216
+249,East Liberty,2023,189
+250,Elliott,2016,44
+251,Elliott,2017,140
+252,Elliott,2018,93
+253,Elliott,2019,88
+254,Elliott,2020,79
+255,Elliott,2021,85
+256,Elliott,2022,80
+257,Elliott,2023,54
+258,Esplen,2016,11
+259,Esplen,2017,37
+260,Esplen,2018,21
+261,Esplen,2019,40
+262,Esplen,2020,22
+263,Esplen,2021,36
+264,Esplen,2022,21
+265,Esplen,2023,12
+266,Fairywood,2016,11
+267,Fairywood,2017,21
+268,Fairywood,2018,20
+269,Fairywood,2019,13
+270,Fairywood,2020,14
+271,Fairywood,2021,17
+272,Fairywood,2022,14
+273,Fairywood,2023,17
+274,Fineview,2014,1
+275,Fineview,2016,77
+276,Fineview,2017,103
+277,Fineview,2018,181
+278,Fineview,2019,165
+279,Fineview,2020,111
+280,Fineview,2021,82
+281,Fineview,2022,44
+282,Fineview,2023,32
+283,Friendship,2016,12
+284,Friendship,2017,45
+285,Friendship,2018,33
+286,Friendship,2019,24
+287,Friendship,2020,12
+288,Friendship,2021,15
+289,Friendship,2022,12
+290,Friendship,2023,21
+291,Garfield,2015,1
+292,Garfield,2016,58
+293,Garfield,2017,143
+294,Garfield,2018,121
+295,Garfield,2019,91
+296,Garfield,2020,100
+297,Garfield,2021,61
+298,Garfield,2022,74
+299,Garfield,2023,73
+300,Glen Hazel,2016,10
+301,Glen Hazel,2017,25
+302,Glen Hazel,2018,19
+303,Glen Hazel,2019,19
+304,Glen Hazel,2020,22
+305,Glen Hazel,2021,35
+306,Glen Hazel,2022,22
+307,Glen Hazel,2023,17
+308,Golden Triangle/Civic Arena,2016,83
+309,Greenfield,2008,1
+310,Greenfield,2016,44
+311,Greenfield,2017,79
+312,Greenfield,2018,98
+313,Greenfield,2019,75
+314,Greenfield,2020,52
+315,Greenfield,2021,81
+316,Greenfield,2022,55
+317,Greenfield,2023,52
+318,Hays,2016,3
+319,Hays,2017,20
+320,Hays,2018,23
+321,Hays,2019,17
+322,Hays,2020,14
+323,Hays,2021,16
+324,Hays,2022,11
+325,Hays,2023,16
+326,Hazelwood,2016,73
+327,Hazelwood,2017,264
+328,Hazelwood,2018,198
+329,Hazelwood,2019,197
+330,Hazelwood,2020,180
+331,Hazelwood,2021,183
+332,Hazelwood,2022,167
+333,Hazelwood,2023,134
+334,Highland Park,2016,42
+335,Highland Park,2017,100
+336,Highland Park,2018,80
+337,Highland Park,2019,77
+338,Highland Park,2020,107
+339,Highland Park,2021,67
+340,Highland Park,2022,39
+341,Highland Park,2023,46
+342,Homewood North,2016,77
+343,Homewood North,2017,287
+344,Homewood North,2018,342
+345,Homewood North,2019,379
+346,Homewood North,2020,282
+347,Homewood North,2021,226
+348,Homewood North,2022,201
+349,Homewood North,2023,175
+350,Homewood South,2007,1
+351,Homewood South,2016,96
+352,Homewood South,2017,335
+353,Homewood South,2018,411
+354,Homewood South,2019,358
+355,Homewood South,2020,308
+356,Homewood South,2021,205
+357,Homewood South,2022,193
+358,Homewood South,2023,183
+359,Homewood West,2015,1
+360,Homewood West,2016,53
+361,Homewood West,2017,125
+362,Homewood West,2018,134
+363,Homewood West,2019,137
+364,Homewood West,2020,107
+365,Homewood West,2021,78
+366,Homewood West,2022,83
+367,Homewood West,2023,46
+368,Knoxville,2016,93
+369,Knoxville,2017,263
+370,Knoxville,2018,228
+371,Knoxville,2019,200
+372,Knoxville,2020,166
+373,Knoxville,2021,149
+374,Knoxville,2022,123
+375,Knoxville,2023,114
+376,Larimer,2016,42
+377,Larimer,2017,157
+378,Larimer,2018,144
+379,Larimer,2019,130
+380,Larimer,2020,98
+381,Larimer,2021,115
+382,Larimer,2022,104
+383,Larimer,2023,89
+384,Lincoln Place,2015,3
+385,Lincoln Place,2016,7
+386,Lincoln Place,2017,34
+387,Lincoln Place,2018,29
+388,Lincoln Place,2019,34
+389,Lincoln Place,2020,30
+390,Lincoln Place,2021,33
+391,Lincoln Place,2022,31
+392,Lincoln Place,2023,26
+393,Lincoln-Lemington-Belmar,2016,76
+394,Lincoln-Lemington-Belmar,2017,207
+395,Lincoln-Lemington-Belmar,2018,248
+396,Lincoln-Lemington-Belmar,2019,187
+397,Lincoln-Lemington-Belmar,2020,169
+398,Lincoln-Lemington-Belmar,2021,152
+399,Lincoln-Lemington-Belmar,2022,153
+400,Lincoln-Lemington-Belmar,2023,170
+401,Lower Lawrenceville,2015,1
+402,Lower Lawrenceville,2016,25
+403,Lower Lawrenceville,2017,41
+404,Lower Lawrenceville,2018,43
+405,Lower Lawrenceville,2019,56
+406,Lower Lawrenceville,2020,21
+407,Lower Lawrenceville,2021,24
+408,Lower Lawrenceville,2022,34
+409,Lower Lawrenceville,2023,27
+410,Manchester,2016,21
+411,Manchester,2017,80
+412,Manchester,2018,99
+413,Manchester,2019,83
+414,Manchester,2020,76
+415,Manchester,2021,52
+416,Manchester,2022,32
+417,Manchester,2023,28
+418,Marshall-Shadeland,2015,1
+419,Marshall-Shadeland,2016,73
+420,Marshall-Shadeland,2017,276
+421,Marshall-Shadeland,2018,292
+422,Marshall-Shadeland,2019,250
+423,Marshall-Shadeland,2020,176
+424,Marshall-Shadeland,2021,160
+425,Marshall-Shadeland,2022,142
+426,Marshall-Shadeland,2023,146
+427,Middle Hill,2016,64
+428,Middle Hill,2017,195
+429,Middle Hill,2018,167
+430,Middle Hill,2019,162
+431,Middle Hill,2020,97
+432,Middle Hill,2021,89
+433,Middle Hill,2022,89
+434,Middle Hill,2023,69
+435,Morningside,2016,17
+436,Morningside,2017,29
+437,Morningside,2018,35
+438,Morningside,2019,37
+439,Morningside,2020,25
+440,Morningside,2021,20
+441,Morningside,2022,16
+442,Morningside,2023,9
+443,Mount Oliver,2016,15
+444,Mount Oliver,2017,28
+445,Mount Oliver,2018,27
+446,Mount Oliver,2019,20
+447,Mount Oliver,2020,8
+448,Mount Oliver,2021,10
+449,Mount Oliver,2022,4
+450,Mount Oliver,2023,12
+451,Mount Washington,2013,1
+452,Mount Washington,2016,64
+453,Mount Washington,2017,310
+454,Mount Washington,2018,289
+455,Mount Washington,2019,205
+456,Mount Washington,2020,129
+457,Mount Washington,2021,163
+458,Mount Washington,2022,164
+459,Mount Washington,2023,109
+460,Mt. Oliver Boro,2017,6
+461,Mt. Oliver Boro,2018,4
+462,Mt. Oliver Boro,2019,2
+463,Mt. Oliver Boro,2020,4
+464,Mt. Oliver Boro,2021,1
+465,Mt. Oliver Boro,2022,1
+466,Mt. Oliver Neighborhood,2016,2
+467,New Homestead,2016,1
+468,New Homestead,2017,7
+469,New Homestead,2018,7
+470,New Homestead,2019,8
+471,New Homestead,2020,3
+472,New Homestead,2021,9
+473,New Homestead,2022,4
+474,North Oakland,2016,19
+475,North Oakland,2017,69
+476,North Oakland,2018,79
+477,North Oakland,2019,69
+478,North Oakland,2020,55
+479,North Oakland,2021,61
+480,North Oakland,2022,51
+481,North Oakland,2023,52
+482,North Shore,2016,84
+483,North Shore,2017,174
+484,North Shore,2018,120
+485,North Shore,2019,115
+486,North Shore,2020,58
+487,North Shore,2021,86
+488,North Shore,2022,104
+489,North Shore,2023,73
+490,Northview Heights,2016,40
+491,Northview Heights,2017,124
+492,Northview Heights,2018,118
+493,Northview Heights,2019,120
+494,Northview Heights,2020,100
+495,Northview Heights,2021,87
+496,Northview Heights,2022,58
+497,Northview Heights,2023,66
+498,Oakwood,2016,5
+499,Oakwood,2017,13
+500,Oakwood,2018,17
+501,Oakwood,2019,13
+502,Oakwood,2020,7
+503,Oakwood,2021,13
+504,Oakwood,2022,11
+505,Oakwood,2023,3
+506,Outside City,2016,25
+507,Outside City,2017,58
+508,Outside City,2018,47
+509,Outside City,2019,52
+510,Outside City,2020,34
+511,Outside City,2021,38
+512,Outside City,2022,38
+513,Outside City,2023,24
+514,Outside County,2016,12
+515,Outside County,2017,11
+516,Outside County,2018,8
+517,Outside County,2019,8
+518,Outside County,2020,3
+519,Outside County,2021,4
+520,Outside County,2022,5
+521,Outside County,2023,6
+522,Outside State,2016,2
+523,Outside State,2017,13
+524,Outside State,2018,17
+525,Outside State,2019,7
+526,Outside State,2020,7
+527,Outside State,2021,6
+528,Outside State,2022,6
+529,Outside State,2023,9
+530,Overbrook,2016,17
+531,Overbrook,2017,61
+532,Overbrook,2018,48
+533,Overbrook,2019,47
+534,Overbrook,2020,28
+535,Overbrook,2021,44
+536,Overbrook,2022,47
+537,Overbrook,2023,39
+538,Perry North,2011,1
+539,Perry North,2015,1
+540,Perry North,2016,28
+541,Perry North,2017,137
+542,Perry North,2018,125
+543,Perry North,2019,126
+544,Perry North,2020,68
+545,Perry North,2021,45
+546,Perry North,2022,30
+547,Perry North,2023,26
+548,Perry South,2016,60
+549,Perry South,2017,188
+550,Perry South,2018,192
+551,Perry South,2019,227
+552,Perry South,2020,112
+553,Perry South,2021,104
+554,Perry South,2022,91
+555,Perry South,2023,83
+556,Point Breeze,2016,17
+557,Point Breeze,2017,47
+558,Point Breeze,2018,65
+559,Point Breeze,2019,61
+560,Point Breeze,2020,54
+561,Point Breeze,2021,25
+562,Point Breeze,2022,17
+563,Point Breeze,2023,15
+564,Point Breeze North,2016,22
+565,Point Breeze North,2017,38
+566,Point Breeze North,2018,43
+567,Point Breeze North,2019,39
+568,Point Breeze North,2020,43
+569,Point Breeze North,2021,46
+570,Point Breeze North,2022,25
+571,Point Breeze North,2023,33
+572,Polish Hill,2016,6
+573,Polish Hill,2017,36
+574,Polish Hill,2018,22
+575,Polish Hill,2019,36
+576,Polish Hill,2020,14
+577,Polish Hill,2021,19
+578,Polish Hill,2022,13
+579,Polish Hill,2023,20
+580,Regent Square,2016,5
+581,Regent Square,2017,9
+582,Regent Square,2018,4
+583,Regent Square,2019,1
+584,Regent Square,2020,3
+585,Regent Square,2021,6
+586,Regent Square,2022,5
+587,Regent Square,2023,4
+588,Ridgemont,2016,3
+589,Ridgemont,2017,3
+590,Ridgemont,2018,2
+591,Ridgemont,2019,7
+592,Ridgemont,2020,10
+593,Ridgemont,2021,3
+594,Ridgemont,2022,5
+595,Ridgemont,2023,4
+596,Shadyside,2016,47
+597,Shadyside,2017,155
+598,Shadyside,2018,195
+599,Shadyside,2019,168
+600,Shadyside,2020,135
+601,Shadyside,2021,96
+602,Shadyside,2022,87
+603,Shadyside,2023,88
+604,Sheraden,2016,100
+605,Sheraden,2017,241
+606,Sheraden,2018,156
+607,Sheraden,2019,190
+608,Sheraden,2020,178
+609,Sheraden,2021,174
+610,Sheraden,2022,130
+611,Sheraden,2023,116
+612,South Oakland,2016,17
+613,South Oakland,2017,63
+614,South Oakland,2018,41
+615,South Oakland,2019,64
+616,South Oakland,2020,43
+617,South Oakland,2021,59
+618,South Oakland,2022,32
+619,South Oakland,2023,35
+620,South Shore,2016,16
+621,South Shore,2017,53
+622,South Shore,2018,47
+623,South Shore,2019,49
+624,South Shore,2020,37
+625,South Shore,2021,43
+626,South Shore,2022,31
+627,South Shore,2023,25
+628,South Side Flats,2011,1
+629,South Side Flats,2014,1
+630,South Side Flats,2016,248
+631,South Side Flats,2017,743
+632,South Side Flats,2018,569
+633,South Side Flats,2019,452
+634,South Side Flats,2020,344
+635,South Side Flats,2021,424
+636,South Side Flats,2022,350
+637,South Side Flats,2023,365
+638,South Side Slopes,2016,47
+639,South Side Slopes,2017,160
+640,South Side Slopes,2018,163
+641,South Side Slopes,2019,110
+642,South Side Slopes,2020,99
+643,South Side Slopes,2021,85
+644,South Side Slopes,2022,72
+645,South Side Slopes,2023,65
+646,Spring Garden,2016,14
+647,Spring Garden,2017,46
+648,Spring Garden,2018,57
+649,Spring Garden,2019,39
+650,Spring Garden,2020,21
+651,Spring Garden,2021,18
+652,Spring Garden,2022,8
+653,Spring Garden,2023,16
+654,Spring Hill-City View,2007,1
+655,Spring Hill-City View,2016,36
+656,Spring Hill-City View,2017,158
+657,Spring Hill-City View,2018,127
+658,Spring Hill-City View,2019,115
+659,Spring Hill-City View,2020,88
+660,Spring Hill-City View,2021,72
+661,Spring Hill-City View,2022,57
+662,Spring Hill-City View,2023,57
+663,Squirrel Hill North,2016,8
+664,Squirrel Hill North,2017,27
+665,Squirrel Hill North,2018,57
+666,Squirrel Hill North,2019,69
+667,Squirrel Hill North,2020,31
+668,Squirrel Hill North,2021,26
+669,Squirrel Hill North,2022,43
+670,Squirrel Hill North,2023,29
+671,Squirrel Hill South,2016,47
+672,Squirrel Hill South,2017,140
+673,Squirrel Hill South,2018,149
+674,Squirrel Hill South,2019,137
+675,Squirrel Hill South,2020,100
+676,Squirrel Hill South,2021,87
+677,Squirrel Hill South,2022,94
+678,Squirrel Hill South,2023,58
+679,St. Clair,2016,3
+680,St. Clair,2017,11
+681,St. Clair,2018,5
+682,St. Clair,2019,13
+683,St. Clair,2020,3
+684,St. Clair,2021,6
+685,St. Clair,2022,7
+686,St. Clair,2023,7
+687,Stanton Heights,2016,15
+688,Stanton Heights,2017,50
+689,Stanton Heights,2018,35
+690,Stanton Heights,2019,23
+691,Stanton Heights,2020,42
+692,Stanton Heights,2021,19
+693,Stanton Heights,2022,22
+694,Stanton Heights,2023,17
+695,Strip District,2016,33
+696,Strip District,2017,95
+697,Strip District,2018,80
+698,Strip District,2019,79
+699,Strip District,2020,52
+700,Strip District,2021,62
+701,Strip District,2022,63
+702,Strip District,2023,39
+703,Summer Hill,2016,5
+704,Summer Hill,2017,13
+705,Summer Hill,2018,11
+706,Summer Hill,2019,17
+707,Summer Hill,2020,14
+708,Summer Hill,2021,1
+709,Summer Hill,2022,4
+710,Summer Hill,2023,11
+711,Swisshelm Park,2016,1
+712,Swisshelm Park,2017,8
+713,Swisshelm Park,2018,7
+714,Swisshelm Park,2019,4
+715,Swisshelm Park,2020,7
+716,Swisshelm Park,2021,6
+717,Swisshelm Park,2022,6
+718,Swisshelm Park,2023,4
+719,Terrace Village,2016,21
+720,Terrace Village,2017,52
+721,Terrace Village,2018,27
+722,Terrace Village,2019,46
+723,Terrace Village,2020,37
+724,Terrace Village,2021,34
+725,Terrace Village,2022,47
+726,Terrace Village,2023,33
+727,Troy Hill,2014,2
+728,Troy Hill,2016,26
+729,Troy Hill,2017,110
+730,Troy Hill,2018,61
+731,Troy Hill,2019,71
+732,Troy Hill,2020,35
+733,Troy Hill,2021,47
+734,Troy Hill,2022,41
+735,Troy Hill,2023,46
+736,Troy Hill-Herrs Island,2016,6
+737,Upper Hill,2013,1
+738,Upper Hill,2015,2
+739,Upper Hill,2016,17
+740,Upper Hill,2017,83
+741,Upper Hill,2018,62
+742,Upper Hill,2019,61
+743,Upper Hill,2020,40
+744,Upper Hill,2021,33
+745,Upper Hill,2022,39
+746,Upper Hill,2023,32
+747,Upper Lawrenceville,2016,12
+748,Upper Lawrenceville,2017,47
+749,Upper Lawrenceville,2018,26
+750,Upper Lawrenceville,2019,33
+751,Upper Lawrenceville,2020,21
+752,Upper Lawrenceville,2021,21
+753,Upper Lawrenceville,2022,13
+754,Upper Lawrenceville,2023,16
+755,West End,2016,22
+756,West End,2017,51
+757,West End,2018,45
+758,West End,2019,45
+759,West End,2020,31
+760,West End,2021,32
+761,West End,2022,35
+762,West End,2023,29
+763,West Oakland,2016,34
+764,West Oakland,2017,60
+765,West Oakland,2018,46
+766,West Oakland,2019,44
+767,West Oakland,2020,37
+768,West Oakland,2021,31
+769,West Oakland,2022,29
+770,West Oakland,2023,44
+771,Westwood,2007,1
+772,Westwood,2016,22
+773,Westwood,2017,30
+774,Westwood,2018,29
+775,Westwood,2019,38
+776,Westwood,2020,35
+777,Westwood,2021,27
+778,Westwood,2022,24
+779,Westwood,2023,20
+780,Windgap,2014,3
+781,Windgap,2016,5
+782,Windgap,2017,19
+783,Windgap,2018,19
+784,Windgap,2019,15
+785,Windgap,2020,17
+786,Windgap,2021,13
+787,Windgap,2022,20
+788,Windgap,2023,13

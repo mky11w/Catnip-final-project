@@ -1,84 +1,89 @@
-hood,request_count
-Allentown,6
-Arlington,3
-Banksville,1
-Bedford Dwellings,21
-Beechview,16
-Beltzhoover,4
-Bloomfield,428
-Bluff,323
-Bon Air,4
-Brighton Heights,8
-Brookline,16
-California-Kirkbride,1
-Carrick,12
-Central Business District,825
-Central Lawrenceville,763
-Central Northside,6
-Central Oakland,3
-Chateau,2
-Crafton Heights,6
-Crawford-Roberts,441
-Duquesne Heights,309
-East Allegheny,6
-East Carnegie,5
-East Hills,20
-East Liberty,105
-Elliott,5
-Esplen,2
-Fairywood,2
-Fineview,1
-Garfield,678
-Glen Hazel,3
-Greenfield,1
-Hays,2
-Hazelwood,13
-Highland Park,719
-Homewood North,17
-Homewood South,21
-Homewood West,3
-Knoxville,10
-Larimer,23
-Lincoln Place,7
-Lincoln-Lemington-Belmar,7
-Lower Lawrenceville,307
-Manchester,1
-Marshall-Shadeland,9
-Middle Hill,213
-Morningside,23
-Mount Washington,210
-Mt. Oliver,20
-New Homestead,3
-North Oakland,222
-North Shore,13
-Northview Heights,3
-Oakwood,11
-Overbrook,13
-Perry North,6
-Perry South,4
-Point Breeze,3
-Point Breeze North,1
-Polish Hill,25
-Regent Square,2
-Ridgemont,9
-Shadyside,58
-South Oakland,22
-South Shore,57
-South Side Flats,119
-South Side Slopes,359
-Spring Garden,5
-Spring Hill-City View,3
-Squirrel Hill North,11
-Squirrel Hill South,6
-St. Clair,4
-Stanton Heights,3
-Strip District,195
-Summer Hill,2
-Swisshelm Park,4
-Terrace Village,28
-Troy Hill,716
-Upper Hill,12
-West End,4
-West Oakland,72
-Westwood,4
-Windgap,5
+hood,request_count,score
+Allegheny Center,155,94.8
+Allegheny West,83,97.22
+Allentown,588,80.28
+Arlington,484,83.77
+Arlington Heights,6,99.8
+Banksville,225,92.45
+Bedford Dwellings,161,94.6
+Beechview,35,98.83
+Beltzhoover,39,98.69
+Bloomfield,1073,64.02
+Bluff,397,86.69
+Bon Air,102,96.58
+Brighton Heights,1079,63.82
+Brookline,16,99.46
+California-Kirkbride,167,94.4
+Carrick,1029,65.49
+Central Business District,1068,64.19
+Central Lawrenceville,922,69.08
+Central Northside,263,91.18
+Central Oakland,508,82.96
+Chateau,56,98.12
+Crafton Heights,6,99.8
+Crawford-Roberts,487,83.67
+Duquesne Heights,309,89.64
+East Allegheny,812,72.77
+East Carnegie,6,99.8
+East Hills,22,99.26
+East Liberty,937,68.58
+Elliott,5,99.83
+Esplen,2,99.93
+Fairywood,2,99.93
+Fineview,314,89.47
+Garfield,878,70.56
+Glen Hazel,29,99.03
+Greenfield,723,75.75
+Hays,3,99.9
+Hazelwood,1104,62.98
+Highland Park,760,74.51
+Homewood North,18,99.4
+Homewood South,24,99.2
+Homewood West,6,99.8
+Knoxville,909,69.52
+Larimer,711,76.16
+Lincoln Place,8,99.73
+Lincoln-Lemington-Belmar,198,93.36
+Lower Lawrenceville,589,80.25
+Manchester,615,79.38
+Marshall-Shadeland,1278,57.14
+Middle Hill,809,72.87
+Morningside,515,82.73
+Mount Washington,636,78.67
+Mt. Oliver,278,90.68
+New Homestead,3,99.9
+North Oakland,367,87.69
+North Shore,88,97.05
+Northview Heights,42,98.59
+Oakwood,11,99.63
+Overbrook,14,99.53
+Perry North,269,90.98
+Perry South,699,76.56
+Point Breeze,197,93.39
+Point Breeze North,209,92.99
+Polish Hill,483,83.8
+Regent Square,14,99.53
+Ridgemont,9,99.7
+Shadyside,400,86.59
+Sheraden,2,99.93
+South Oakland,473,84.14
+South Shore,58,98.05
+South Side Flats,120,95.98
+South Side Slopes,576,80.68
+Spring Garden,336,88.73
+Spring Hill-City View,239,91.99
+Squirrel Hill North,146,95.1
+Squirrel Hill South,290,90.27
+St. Clair,78,97.38
+Stanton Heights,618,79.28
+Strip District,212,92.89
+Summer Hill,67,97.75
+Swisshelm Park,6,99.8
+Terrace Village,108,96.38
+Troy Hill,766,74.31
+Upper Hill,32,98.93
+Upper Lawrenceville,610,79.54
+West End,4,99.87
+West Oakland,289,90.31
+Westwood,4,99.87
+Windgap,5,99.83
