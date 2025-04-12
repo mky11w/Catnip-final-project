@@ -65,7 +65,7 @@ We included two primary forms of visualization:
 While no single score can fully capture the lived experience of residents, our approach offers a **transparent, replicable framework** for understanding neighborhood-level conditions in Pittsburgh. It can serve as a foundation for **urban planning**, **policy-making**, and **community engagement**.
 
 ---
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 .
@@ -94,7 +94,6 @@ While no single score can fully capture the lived experience of residents, our a
     ├── notebook
     └── tingxu_final_score.csv
 
-9 directories, 17 files
 ```
 ---
 
