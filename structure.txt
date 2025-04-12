@@ -1,0 +1,28 @@
+.
+├── Appendix.ipynb
+├── Catnip_Final_Report.ipynb
+├── Dylan - Arrest Analysis
+│   ├── ArrestData_updated.csv
+│   ├── CensusCounts.csv
+│   ├── PoliceArrestData.ipynb
+│   ├── cleaned_arrested.csv
+│   ├── correlation.csv
+│   ├── result.csv
+│   └── result.ipynb
+├── Makayla - 311 data analysis
+│   ├── 311_counts_by_neighborhood.csv
+│   ├── Neighborhood boundaries
+│   ├── draft.py
+│   ├── filtered_311.csv
+│   └── job.ipynb
+├── README.md
+├── structure.txt
+└── tingxu_vibe_score
+    ├── data
+    ├── data_cleaned
+    ├── data_score
+    ├── heartmap_index.ipynb
+    ├── notebook
+    └── tingxu_final_score.csv
+
+9 directories, 17 files
