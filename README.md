@@ -1,6 +1,6 @@
 # What is the Best Neighborhood in Pittsburgh?  
 ### By Team Catnip🌿  
-*Makayla Chang/mac1055@pitt.edu , Dylan Dimond/dyd19@pitt.edu , Tingxu Chen/tic128@pitt.edu*
+*Makayla Chang mac1055@pitt.edu , Dylan Dimond dyd19@pitt.edu , Tingxu Chen tic128@pitt.edu*
 
 ---
 
@@ -47,8 +47,8 @@ North Oakland leads the pack with high scores across all categories — a strong
 ## Data Visualization
 
 We included two primary forms of visualization:
-- A **histogram** showing that the composite score distribution follows a roughly **normal curve**, suggesting statistical consistency.
-- A **spatial choropleth map** that highlights geographic disparities and top-performing neighborhoods across the city.
+- **Histogram** showing that the composite score distribution follows a roughly **normal curve**, suggesting statistical consistency.
+- **Spatial choropleth maps** that highlight geographic disparities and the performance of each neighborhoods across the city.
 
 ---
 
@@ -86,7 +86,6 @@ While no single score can fully capture the lived experience of residents, our a
 │   ├── filtered_311.csv
 │   └── job.ipynb
 ├── README.md
-├── structure.txt
 └── tingxu_vibe_score
     ├── data
     ├── data_cleaned
@@ -103,4 +102,4 @@ While no single score can fully capture the lived experience of residents, our a
 
 - [Pittsburgh Police Arrest Data](https://data.wprdc.org/dataset/arrest-data)
 - [311 Service Request Data](https://data.wprdc.org/dataset/311-data)
-- [Allegheny County Public Assets](https://data.wprdc.org/dataset/allegheny-county-public-assets)
+- [Allegheny County Public Assets](https://data.wprdc.org/dataset/allegheny-county-assets)
