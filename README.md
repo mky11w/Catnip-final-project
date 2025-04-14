@@ -46,9 +46,15 @@ North Oakland leads the pack with high scores across all categories — a strong
 
 ## Data Visualization
 
-We included two primary forms of visualization:
-- **Histogram** showing that the composite score distribution follows a roughly **normal curve**, suggesting statistical consistency.
-- **Spatial choropleth maps** that highlight geographic disparities and the performance of each neighborhoods across the city.
+We incorporated four primary types of visualizations:
+
+- **Histogram** illustrating the distribution of composite scores, which follows a roughly normal curve—indicating statistical consistency.
+
+- **Spatial choropleth map** highlights the geographic disparities and neighborhood performance across the city.
+
+- **Dot Density Map** of Public Requests or Infrastructure Points to reveal concentrated clusters of civic activity, offering spatial insight into areas of high service demand or infrastructure presence.
+
+- **Line graph** tracking the change in crime rates over time.
 
 ---
 
