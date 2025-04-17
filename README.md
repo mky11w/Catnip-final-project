@@ -75,7 +75,6 @@ While no single score can fully capture the lived experience of residents, our a
 
 ```
 .
-├── Appendix.ipynb
 ├── Catnip_Final_Report.ipynb
 ├── Dylan - Arrest Analysis
 │   ├── ArrestData_updated.csv
@@ -88,7 +87,6 @@ While no single score can fully capture the lived experience of residents, our a
 ├── Makayla - 311 data analysis
 │   ├── 311_counts_by_neighborhood.csv
 │   ├── Neighborhood boundaries
-│   ├── draft.py
 │   ├── filtered_311.csv
 │   └── job.ipynb
 ├── README.md
